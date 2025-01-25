@@ -9,6 +9,11 @@
         "description": "Put TRUE,if you want the bot to view status ",
         "required": true
       },
+    "env" : {
+	"autoviewonce" : {
+	"description" :
+	"required" :true
+    }, 
       "HEROKU_API_KEY": {
         "description": "Heroku account api key, https://dashboard.heroku.com/account",
         "required": false
